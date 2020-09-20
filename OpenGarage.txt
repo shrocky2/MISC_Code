@@ -1,0 +1,18 @@
+To: EMAIL_ADDRESS_TO
+From: EMAIL_ADDRESS_TO
+Mime-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+Subject: Garage is Open!!!
+
+
+<html><head>
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" type="text/css" href="http://IP_ADDRESS_OF_RASPBERRY_PI/stylesheet.css">
+</head>
+<body bgcolor=red>
+<center>
+<br><br><br>
+<img src="http://IP_ADDRESS_OF_RASPBERRY_PI/images/GarageRed.gif" width="90%">
+<br><br><a href="http://IP_ADDRESS_OF_RASPBERRY_PI/Log">Click for Log File</a><br><br>
+</center>
+</body></html>

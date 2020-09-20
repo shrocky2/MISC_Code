@@ -1,0 +1,18 @@
+To: EMAIL_ADDRESS_TO
+From: EMAIL_ADDRESS_TO
+Mime-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+Subject: Garage is Questionable. Check Back Soon.
+
+
+<html><head>
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" type="text/css" href="http://IP_ADDRESS_OF_RASPBERRY_PI/stylesheet.css">
+</head>
+<body bgcolor="orange">
+<center>
+<br><br><br>
+<img src="http://IP_ADDRESS_OF_RASPBERRY_PI/images/GarageQuestion.gif" width="90%">
+<br><br><a href="http://IP_ADDRESS_OF_RASPBERRY_PI.org/Log">Click for Log File</a><br><br>
+</center>
+</body></html>
